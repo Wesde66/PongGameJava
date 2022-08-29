@@ -16,6 +16,8 @@ public class Sprite {
 	public int getHeight() { return height; }
 	public Color getColour() { return colour; }
 	
+	//Second comment added for the experiment 2
+	
 	public void setXPosition(int newX) {
 		xPosition = newX;
 	}
